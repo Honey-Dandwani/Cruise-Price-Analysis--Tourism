@@ -65,7 +65,7 @@ service provided on board. In other words, the cost of the cruise did not vary
 across customers included in this data set.
 
 
-Dataset Link - https://github.com/nikunjachoure/Price-Optimization-Revenue-Management-Case-Study/blob/main/Copa-Data-File-1.xls
+Dataset Link - Copa-Data-File-1.xls
 
 
 
